@@ -198,4 +198,4 @@ This repository serves as the official landing page for Escape Together: Secrets
 **Get the most recent version of Escape Together today!**
 
 ---
-**Last updated:** 2026-11-13 16:02:09 UTC
+**Last updated:** 2026-11-13 22:26:33 UTC
